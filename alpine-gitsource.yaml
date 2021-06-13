@@ -7,4 +7,4 @@ spec:
   interval: 30s
   ref:
     branch: master
-  url: https://github.com/developer-guy/pwned-desired-state-repository
+  url: https://github.com/developer-guy/desired-state-repository

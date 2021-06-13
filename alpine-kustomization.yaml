@@ -5,7 +5,7 @@ metadata:
   namespace: default
 spec:
   interval: 5m0s
-  path: "."
+  path: "./"
   prune: true
   sourceRef:
     kind: GitRepository
